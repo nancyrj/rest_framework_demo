@@ -8,3 +8,7 @@ function_one()
 def function_two():
     pass
 function_two()
+
+def math_opertion():
+    print("this is new function")
+math_opertion()
