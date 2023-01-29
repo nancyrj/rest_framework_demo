@@ -6,5 +6,5 @@ def function_one():
 function_one()
 
 def function_two():
-    pass
+    print("function 2")
 function_two()
