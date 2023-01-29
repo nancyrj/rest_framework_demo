@@ -12,3 +12,7 @@ function_two()
 def math_opertion():
     print("this is new function")
 math_opertion()
+
+x=10
+y=50
+print(x+y)
